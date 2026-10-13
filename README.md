@@ -2,8 +2,7 @@
 
 ### Computer Engineering Student | Aspiring Software Developer
 
-[![Profile
-views](https://komarev.com/ghpvc/?username=prachiiieee-byte&label=Profile%20views&color=blueviolet&style=flat)](https://github.com/prachiiieee-byte)
+
 
 ## 🌷 About Me - 🎓 I\'m a Computer Engineering student from Nepal. -
 💻 I enjoy building projects and learning by doing. - 🌱 Currently
